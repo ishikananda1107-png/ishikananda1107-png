@@ -2,9 +2,9 @@
 
 ### B.Tech CSE (AI/ML) Student | Python | DSA | Data Analytics | Machine Learning
 
-I'm a Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning.
+I'm a Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning at Manav Rachna International Institute of Research and Studies.
 
-I'm currently building my programming fundamentals through Python, Data Structures & Algorithms, and hands-on projects.
+I'm passionate about exploring technology, developing practical applications, and applying programming and machine learning concepts to solve real-world problems.
 
 ## 🛠️ Skills
 
@@ -19,33 +19,51 @@ I'm currently building my programming fundamentals through Python, Data Structur
 
 ## 🚀 Projects
 
+### 💰 FinTrack – Personal Finance Tracking and Analysis System
+
+A Python-based personal finance management application that helps users track monthly income, manage expenses, and analyze spending patterns.
+
+**Key Features:**
+- User Registration and Login
+- Monthly Income Management
+- Expense Tracking
+- ML-based Expense Categorization using TF-IDF and LinearSVC
+- Interactive Spending Analytics and Pie Charts
+- SQLite Database Integration
+
+**Technologies:** Python, Streamlit, SQLite, Pandas, Plotly, Scikit-learn.
+
+🔗 [View Project](https://github.com/ishikananda1107-png/FinTrack)
+
 ### 🎓 Student Management System
-A Python-based student management system with JSON data storage and CRUD operations.
+
+A Python-based student management system with JSON data storage and CRUD operations, allowing users to add, view, search, update, and delete student records.
 
 🔗 [View Project](https://github.com/ishikananda1107-png/student-management-system)
-
-### 🚧 More Projects Coming Soon
-
-Currently working on Python, DSA, Data Analytics, and Machine Learning projects.
 
 ## 📚 Currently Learning
 
 - Python
 - Data Structures & Algorithms
-- OOP
+- Object-Oriented Programming
 - Machine Learning
+- Data Analytics
 - Git & GitHub
 
 ## 🎯 My Goals
 
-- Build practical and meaningful projects
-- Strengthen my programming and problem-solving skills
-- Explore Artificial Intelligence and Machine Learning
-- Contribute to open-source projects
-- Secure a technical internship
+- Build practical and meaningful projects.
+- Strengthen programming and problem-solving skills.
+- Explore Artificial Intelligence and Machine Learning.
+- Contribute to open-source projects.
+- Secure a technical internship.
 
 ## 📫 Connect With Me
 
--💼 LinkedIn: [Ishika Nanda](https://www.linkedin.com/in/ishika-nanda-3b6941376/)
-- 🌐 Portfolio: Coming soon
+- 💼 LinkedIn: [Ishika Nanda](https://www.linkedin.com/in/ishika-nanda-3b6941376/)
 - 💻 GitHub: [ishikananda1107-png](https://github.com/ishikananda1107-png)
+- 🌐 Portfolio: Coming Soon
+
+---
+
+*Always learning, building, and exploring new possibilities in technology.*
