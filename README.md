@@ -62,7 +62,11 @@ A Python-based student management system with JSON data storage and CRUD operati
 
 - 💼 LinkedIn: [Ishika Nanda](https://www.linkedin.com/in/ishika-nanda-3b6941376/)
 - 💻 GitHub: [ishikananda1107-png](https://github.com/ishikananda1107-png)
-- 🌐 Portfolio: Coming Soon
+- 🌐 Portfolio: <div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-4d8dff?style=for-the-badge)](https://ishikananda1107-png.github.io)
+
+</div>
 
 ---
 
